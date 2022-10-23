@@ -1,0 +1,30 @@
+.image {
+	display: flex;
+	justify-content: center;
+}
+
+img {
+	border-radius: 60%;
+}
+
+.bio {
+	display: flex;
+	justify-content: center;
+}
+
+.language {
+	color:brown;
+}
+
+body {
+	background: lightblue;
+}
+
+.contact {
+	font-family: Arial, Helvetica, sans-serif;
+	color: red;
+}
+
+.contactInfo {
+	background: lightgreen;
+}

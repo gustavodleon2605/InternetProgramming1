@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="textbook.xsl"?>
+<textbooks>
+    <textbook>
+        <title>Introduction to Algorithms</title>
+        <authors>
+            <author>
+                <firstName>Thomas H.</firstName>
+                <lastName>Cormen</lastName>
+            </author>
+            <author>
+                <firstName>Charles E.</firstName>
+                <lastName>Leiserson</lastName>
+            </author>
+        </authors>
+        <publisher>
+            <name>PHI Learning Pvt. Ltd. (Originally MIT Press)</name>
+            <website>www.mitpress.com</website>
+        </publisher>
+        <Year-of-Publication>2010</Year-of-Publication>
+        <ISBN>8120340078</ISBN>
+        <book-specific-website></book-specific-website>
+        <edition>3</edition>
+        <cover-type>Paperback</cover-type>
+    </textbook>
+    <textbook>
+        <title>Operating System Concepts</title>
+        <authors>
+            <author>
+                <firstName>Abraham</firstName>
+                <lastName>Silberschatz</lastName>
+            </author>
+        </authors>
+        <publisher>
+            <name>Wiley India</name>
+            <website>www.wileyindia.com</website>
+        </publisher>
+        <Year-of-Publication>2005</Year-of-Publication>
+        <ISBN>8126554274</ISBN>
+        <book-specific-website>fgdfg</book-specific-website>
+        <edition>9</edition>
+        <cover-type>Hardcover</cover-type>
+    </textbook>
+</textbooks>
